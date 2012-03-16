@@ -6,7 +6,7 @@ This is a [Sublime Text][sublime] package which includes a bunch of handy snippe
 
 If you have the [Package Control][package_control] package installed, you can install Codeigniter Sublime Snippets from inside Sublime Text itself. Open the Command Palette and select "Package Control: Add Repository", then add:
 
-	https://github.com/RoverWire/CodeIgniter-Sublime-Snippets.git
+	http://github.com/RoverWire/CodeIgniter-Sublime-Snippets/zipball/master
 
 Now open the command pallette and select "Package Control: Install Package" and search for Codeigniter Sublime Snippets.
 
