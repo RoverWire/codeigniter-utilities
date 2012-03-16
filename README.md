@@ -1,4 +1,4 @@
-This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for Codeigniter PHP framework.
+This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for [CodeIgniter][ci] PHP framework.
 
 ## Installation ##
 
@@ -18,4 +18,5 @@ If you haven't got Package Control installed you will need to make a clone of th
 
 
 [sublime]: http://www.sublimetext.com/
+[ci]: http://www.codeigniter.com/
 [package_control]: http://wbond.net/sublime_packages/package_control
