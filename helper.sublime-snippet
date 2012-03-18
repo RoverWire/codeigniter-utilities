@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * Function Name
+ *
+ * Function description
+ *
+ * @access	public
+ * @param	type	name
+ * @return	type	
+ */
+if (! function_exists(${1:FunctionName}))
+{
+	function $1(${2:\$param${3: = ''}})
+	{
+		$4
+	}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cihelper</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

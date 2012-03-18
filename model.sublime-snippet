@@ -2,25 +2,23 @@
 	<content><![CDATA[
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class ${1:ControllerName} extends CI_Controller {
+class ${1:ModelName} extends CI_Model {
+
+	${2:${3:public} ${4:\$variable};}
 
 	public function __construct()
 	{
 		parent::__construct();
-	}
-
-	public function index()
-	{
-		$2
+		$5
 	}
 
 }
 
 /* End of file $TM_FILENAME */
-/* Location: ./application/controllers/$TM_FILENAME */
+/* Location: ./application/models/$TM_FILENAME */
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>cicontroller</tabTrigger>
+	<tabTrigger>cimodel</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
