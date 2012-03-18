@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$this->cart->total_items();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cicarttotali</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
