@@ -21,6 +21,7 @@ class ${1:ControllerName} extends CI_Controller {
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cicontroller</tabTrigger>
+	<description>CodeIgniter Controller</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

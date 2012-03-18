@@ -4,4 +4,5 @@
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ciphp</tabTrigger>
+	<description>CodeIgniter Tag</description>
 </snippet>
