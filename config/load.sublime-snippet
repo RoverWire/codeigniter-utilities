@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$this->config->load(${1:'filename'}${2:, ${3:TRUE}${4:, ${5:TRUE}}});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ciconfload</tabTrigger>
+	<description>Config Load</description>
+	<scope>source.php</scope>
+</snippet>
