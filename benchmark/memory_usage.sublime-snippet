@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$this->benchmark->memory_usage();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cibenchmem</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$this->benchmark->mark(${1:'${2:string_mark}'});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cibenchmark</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
