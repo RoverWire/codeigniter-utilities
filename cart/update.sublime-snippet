@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-$this->cart->update($1);
+\$this->cart->update($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cicartup</tabTrigger>
+	<description>Cart Update</description>
 	<scope>source.php</scope>
 </snippet>

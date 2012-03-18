@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-$this->cart->total();
+\$this->cart->total();
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cicarttotal</tabTrigger>
+	<description>Cart Total</description>
 	<scope>source.php</scope>
 </snippet>

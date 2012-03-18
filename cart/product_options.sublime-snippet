@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-$this->cart->product_options(${1:\$rowid});
+\$this->cart->product_options(${1:\$rowid});
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cicartopt</tabTrigger>
+	<description>Cart Product Options</description>
 	<scope>source.php</scope>
 </snippet>

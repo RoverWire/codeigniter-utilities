@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-$this->cart->destroy();
+\$this->cart->destroy();
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cicartdes</tabTrigger>
+	<description>Cart Destroy</description>
 	<scope>source.php</scope>
 </snippet>
