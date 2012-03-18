@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+$this->calendar->generate($1);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cicalgen</tabTrigger>
+	<scope>source.php</scope>
+</snippet>
