@@ -4,5 +4,6 @@
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cibenchtime</tabTrigger>
+	<description>Elapsed Time</description>
 	<scope>source.php</scope>
 </snippet>

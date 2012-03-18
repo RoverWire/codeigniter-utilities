@@ -4,5 +4,6 @@
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cibenchmark</tabTrigger>
+	<description>Benchmark Mark</description>
 	<scope>source.php</scope>
 </snippet>
