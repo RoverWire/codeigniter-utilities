@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query}->previous_row(${2:'Array'});
+]]></content>
+	<tabTrigger>cidbprow</tabTrigger>
+	<description>Database Previous Row</description>
+	<scope>source.php</scope>
+</snippet>

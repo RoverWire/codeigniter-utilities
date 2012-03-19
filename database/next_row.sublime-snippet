@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query}->next_row(${2:'Array'});
+]]></content>
+	<tabTrigger>cidbnrow</tabTrigger>
+	<description>Database Next Row</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query}->last_row(${2:'Array'});
+]]></content>
+	<tabTrigger>cidblrow</tabTrigger>
+	<description>Database Last Row</description>
+	<scope>source.php</scope>
+</snippet>
