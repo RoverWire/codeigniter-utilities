@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$${1:query}->free_result(${2:'Array'});
+\$${1:query}->free_result();
 ]]></content>
 	<tabTrigger>cidbfree</tabTrigger>
 	<description>Database Free Result</description>
