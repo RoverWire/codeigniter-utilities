@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->escape_like_str($1);
+]]></content>
+	<tabTrigger>cidbesclike</tabTrigger>
+	<description>Database Escape Like</description>
+	<scope>source.php</scope>
+</snippet>

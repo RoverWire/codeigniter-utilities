@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query}->db->result();
+]]></content>
+	<tabTrigger>cidbres</tabTrigger>
+	<description>Database Query Result</description>
+	<scope>source.php</scope>
+</snippet>

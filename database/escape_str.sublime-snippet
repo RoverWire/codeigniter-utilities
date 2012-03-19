@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->escape_str($1);
+]]></content>
+	<tabTrigger>cidbescstr</tabTrigger>
+	<description>Database Escape String</description>
+	<scope>source.php</scope>
+</snippet>
