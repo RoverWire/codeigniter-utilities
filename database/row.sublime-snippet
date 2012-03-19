@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query}->db->row();
+]]></content>
+	<tabTrigger>cidbrow</tabTrigger>
+	<description>Database Row</description>
+	<scope>source.php</scope>
+</snippet>

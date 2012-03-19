@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query}->db->row_array();
+]]></content>
+	<tabTrigger>cidbrowar</tabTrigger>
+	<description>Database Row Array</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query}->db->result_array();
+]]></content>
+	<tabTrigger>cidbresar</tabTrigger>
+	<description>Database Result Array</description>
+	<scope>source.php</scope>
+</snippet>
