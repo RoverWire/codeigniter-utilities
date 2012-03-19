@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$${1:query}->db->result();
+\$${1:query}->result();
 ]]></content>
 	<tabTrigger>cidbres</tabTrigger>
 	<description>Database Query Result</description>

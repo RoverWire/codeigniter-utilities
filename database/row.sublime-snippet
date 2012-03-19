@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$${1:query}->db->row();
+\$${1:query}->row();
 ]]></content>
 	<tabTrigger>cidbrow</tabTrigger>
 	<description>Database Row</description>

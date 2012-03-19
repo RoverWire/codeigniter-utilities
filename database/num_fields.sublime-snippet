@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$${1:query}->num_fields();
+]]></content>
+	<tabTrigger>cidbnumfi</tabTrigger>
+	<description>Database Number of Fields</description>
+	<scope>source.php</scope>
+</snippet>

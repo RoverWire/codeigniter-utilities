@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$${1:query}->db->num_rows();
+\$${1:query}->num_rows();
 ]]></content>
 	<tabTrigger>cidbnum</tabTrigger>
 	<description>Database Result Number Rows</description>
