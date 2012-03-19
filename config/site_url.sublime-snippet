@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->conf->site_url();
+]]></content>
+	<tabTrigger>ciconfsite</tabTrigger>
+	<description>Config Site URL</description>
+	<scope>source.php</scope>
+</snippet>

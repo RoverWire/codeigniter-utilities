@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->conf->system_url();
+]]></content>
+	<tabTrigger>ciconfsys</tabTrigger>
+	<description>Config System URL</description>
+	<scope>source.php</scope>
+</snippet>
