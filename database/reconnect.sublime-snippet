@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->reconnect();
+]]></content>
+	<tabTrigger>cidbrecon</tabTrigger>
+	<description>Database Reconnect</description>
+	<scope>source.php</scope>
+</snippet>

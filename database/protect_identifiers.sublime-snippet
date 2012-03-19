@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->protect_identifiers(${1:'${2:table_name}'}${3:, TRUE});
+]]></content>
+	<tabTrigger>cidbproid</tabTrigger>
+	<description>Database Protect Identifiers</description>
+	<scope>source.php</scope>
+</snippet>

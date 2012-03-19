@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->database();
+]]></content>
+	<tabTrigger>ciloaddb</tabTrigger>
+	<description>Database Load</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->dbprefix(${1:'${2:table_name}'});
+]]></content>
+	<tabTrigger>cidbpre</tabTrigger>
+	<description>Database Prefix</description>
+	<scope>source.php</scope>
+</snippet>

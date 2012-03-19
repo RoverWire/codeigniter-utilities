@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->simple_query($1);
+]]></content>
+	<tabTrigger>cidbsquery</tabTrigger>
+	<description>Database Simple Query</description>
+	<scope>source.php</scope>
+</snippet>
