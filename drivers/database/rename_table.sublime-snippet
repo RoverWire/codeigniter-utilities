@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbforge->rename_table(${1:'${2:old_name}'}, ${3:'${4:new_name}'});
+]]></content>
+	<tabTrigger>cidbfrenametb</tabTrigger>
+	<description>Database Forge Rename Table</description>
+	<scope>source.php</scope>
+</snippet>

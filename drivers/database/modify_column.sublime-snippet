@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbforge->modify_column(${1:'${2:table_name}'}, ${3:$fields});
+]]></content>
+	<tabTrigger>cidbfmodcol</tabTrigger>
+	<description>Database Forge Modify Column</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbforge->add_key(${1:'${2:database}'}${3:, $4{:TRUE}});
+]]></content>
+	<tabTrigger>cidbfaddk</tabTrigger>
+	<description>Database Forge Add Key</description>
+	<scope>source.php</scope>
+</snippet>

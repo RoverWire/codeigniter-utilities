@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->cache_on();
+]]></content>
+	<tabTrigger>cidbcacheon</tabTrigger>
+	<description>Database Cache On</description>
+	<scope>source.php</scope>
+</snippet>

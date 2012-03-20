@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->trans_strict(${1:FALSE});
+]]></content>
+	<tabTrigger>cidbtranstr</tabTrigger>
+	<description>Database Transaction Strict</description>
+	<scope>source.php</scope>
+</snippet>

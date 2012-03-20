@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbforge->drop_table(${1:'${2:table}'});
+]]></content>
+	<tabTrigger>cidbfdroptb</tabTrigger>
+	<description>Database Forge Drop Table</description>
+	<scope>source.php</scope>
+</snippet>

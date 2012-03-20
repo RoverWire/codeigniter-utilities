@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbutil->xml_from_result(${1:\$db_result});
+]]></content>
+	<tabTrigger>cidbuxmlres</tabTrigger>
+	<description>Database Utility XML From Result</description>
+	<scope>source.php</scope>
+</snippet>

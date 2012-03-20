@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbutil->backup(${1:\$preferences});
+]]></content>
+	<tabTrigger>cidbuback</tabTrigger>
+	<description>Database Utility Backup</description>
+	<scope>source.php</scope>
+</snippet>

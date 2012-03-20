@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbforge->drop_column(${1:'${2:table_name}'}, ${3:'${4:column_name}'});
+]]></content>
+	<tabTrigger>cidbfdropcol</tabTrigger>
+	<description>Database Forge Drop Column</description>
+	<scope>source.php</scope>
+</snippet>

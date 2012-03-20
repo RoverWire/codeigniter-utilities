@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbforge->add_field(${1:"${2:string or array}"});
+]]></content>
+	<tabTrigger>cidbfaddf</tabTrigger>
+	<description>Database Forge Add Field</description>
+	<scope>source.php</scope>
+</snippet>

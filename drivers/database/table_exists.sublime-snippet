@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->table_exists(${1:'${2:table}'});
+]]></content>
+	<tabTrigger>cidbtabex</tabTrigger>
+	<description>Database Table Exists</description>
+	<scope>source.php</scope>
+</snippet>

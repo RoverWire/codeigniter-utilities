@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->trans_rollback();
+]]></content>
+	<tabTrigger>cidbtransroll</tabTrigger>
+	<description>Database Transaction Rollback</description>
+	<scope>source.php</scope>
+</snippet>

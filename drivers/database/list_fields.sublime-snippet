@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->list_fields(${1:'${2:table}'});
+]]></content>
+	<tabTrigger>cidblistf</tabTrigger>
+	<description>Database List Fields</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->cache_delete(${1:${2:'$3{controller}'}, ${4:'$5{method}'}});
+]]></content>
+	<tabTrigger>cidbcachedel</tabTrigger>
+	<description>Database Cache Delete</description>
+	<scope>source.php</scope>
+</snippet>

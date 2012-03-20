@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->list_tables();
+]]></content>
+	<tabTrigger>cidblistt</tabTrigger>
+	<description>Database List Tables</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->call_function(${1:'${2:funtion_name}'}${3:, ${4:$params}});
+]]></content>
+	<tabTrigger>cidbcall</tabTrigger>
+	<description>Database Function Call</description>
+	<scope>source.php</scope>
+</snippet>

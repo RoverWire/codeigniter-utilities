@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbutil->database_exists(${1:'${2:database}'});
+]]></content>
+	<tabTrigger>cidbudbexists</tabTrigger>
+	<description>Database Utility DB Exists</description>
+	<scope>source.php</scope>
+</snippet>

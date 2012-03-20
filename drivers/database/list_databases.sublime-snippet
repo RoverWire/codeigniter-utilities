@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbutil->list_databases();
+]]></content>
+	<tabTrigger>cidbulistdb</tabTrigger>
+	<description>Database Utility List DB</description>
+	<scope>source.php</scope>
+</snippet>

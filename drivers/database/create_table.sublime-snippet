@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbforge->create_table(${1:'${2:table}'}${3:, $4{:TRUE}});
+]]></content>
+	<tabTrigger>cidbfcreatetb</tabTrigger>
+	<description>Database Forge Create Table</description>
+	<scope>source.php</scope>
+</snippet>

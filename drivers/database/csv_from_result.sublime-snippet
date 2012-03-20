@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbutil->csv_from_result(${1:\$db_result});
+]]></content>
+	<tabTrigger>cidbucsvres</tabTrigger>
+	<description>Database Utility CSV From Result</description>
+	<scope>source.php</scope>
+</snippet>

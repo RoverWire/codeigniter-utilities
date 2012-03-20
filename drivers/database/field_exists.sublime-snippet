@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->field_exists(${1:'${2:field}'}, ${3:'${4:table}'});
+]]></content>
+	<tabTrigger>cidbfieldex</tabTrigger>
+	<description>Database Field Exists</description>
+	<scope>source.php</scope>
+</snippet>

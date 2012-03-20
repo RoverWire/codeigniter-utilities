@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->dbutil->repair_table(${1:'${2:table}'});
+]]></content>
+	<tabTrigger>cidbureptb</tabTrigger>
+	<description>Database Utility Repair Table</description>
+	<scope>source.php</scope>
+</snippet>

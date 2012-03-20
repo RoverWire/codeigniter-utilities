@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->field_data(${1:'${2:table}'});
+]]></content>
+	<tabTrigger>cidbfieldat</tabTrigger>
+	<description>Database Field Data</description>
+	<scope>source.php</scope>
+</snippet>

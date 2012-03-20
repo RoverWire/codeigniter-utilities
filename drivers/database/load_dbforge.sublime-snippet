@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->dbforge();
+]]></content>
+	<tabTrigger>cidbforge</tabTrigger>
+	<description>Database Forge Load</description>
+	<scope>source.php</scope>
+</snippet>
