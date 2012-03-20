@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->flush_cache();
+]]></content>
+	<tabTrigger>cidbflushca</tabTrigger>
+	<description>Database A.R. Flush Cache</description>
+	<scope>source.php</scope>
+</snippet>

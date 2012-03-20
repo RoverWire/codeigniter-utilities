@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->update(${1:'${2:table}'}, ${3:\$data}${4:, ${5:\$condition}});
+]]></content>
+	<tabTrigger>cidbup</tabTrigger>
+	<description>Database A.R. Update</description>
+	<scope>source.php</scope>
+</snippet>

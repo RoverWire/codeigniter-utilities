@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->update(${1:'${2:table}'}, ${3:\$data}${4:, ${5:'${6:field}'}});
+]]></content>
+	<tabTrigger>cidbupb</tabTrigger>
+	<description>Database A.R. Update Batch</description>
+	<scope>source.php</scope>
+</snippet>

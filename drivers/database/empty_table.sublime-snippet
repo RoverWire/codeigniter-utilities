@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->empty_table(${1:'${2:table}'});
+]]></content>
+	<tabTrigger>cidbempty</tabTrigger>
+	<description>Database A.R. Empty Table</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->stop_cache();
+]]></content>
+	<tabTrigger>cidbstopca</tabTrigger>
+	<description>Database A.R. Stop Cache</description>
+	<scope>source.php</scope>
+</snippet>

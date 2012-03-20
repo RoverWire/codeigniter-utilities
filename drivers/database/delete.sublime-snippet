@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->delete(${2:'${3:table}'}${5:, ${6:\$array}});
+]]></content>
+	<tabTrigger>cidbdel</tabTrigger>
+	<description>Database A.R. Delete</description>
+	<scope>source.php</scope>
+</snippet>
