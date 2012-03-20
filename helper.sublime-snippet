@@ -9,17 +9,15 @@
  * @param	type	name
  * @return	type	
  */
-if (! function_exists(${1:FunctionName}))
+if (! function_exists(${1:function_name}))
 {
 	function $1(${2:\$param${3: = ''}})
 	{
-		$4
+		$0
 	}
 }
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cihelper</tabTrigger>
 	<description>CodeIgniter Helper</description>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 </snippet>

@@ -2,7 +2,6 @@
 	<content><![CDATA[
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ciphp</tabTrigger>
 	<description>CodeIgniter Tag</description>
 </snippet>
