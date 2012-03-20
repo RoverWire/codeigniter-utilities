@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->select(${2:'${3:fields}'}${4:, ${5:FALSE}});
+]]></content>
+	<tabTrigger>cidbsel</tabTrigger>
+	<description>Database A.R. Select</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->from(${2:'${3:table}'});
+]]></content>
+	<tabTrigger>cidbfrom</tabTrigger>
+	<description>Database A.R. From</description>
+	<scope>source.php</scope>
+</snippet>

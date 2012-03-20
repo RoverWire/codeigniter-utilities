@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->last_query();
+]]></content>
+	<tabTrigger>cidblast</tabTrigger>
+	<description>Database Last Query</description>
+	<scope>source.php</scope>
+</snippet>

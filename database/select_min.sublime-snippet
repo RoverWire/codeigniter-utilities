@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->select_min(${2:'${3:field}'}${4:, ${5:'${6:field_alias}'}});
+]]></content>
+	<tabTrigger>cidbselmin</tabTrigger>
+	<description>Database A.R. Select Min</description>
+	<scope>source.php</scope>
+</snippet>

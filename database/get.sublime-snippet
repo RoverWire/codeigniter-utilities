@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->get(${2:'${3:table}'}${4:, ${5:\$limit}${6:, ${7:\$offset}}});
+]]></content>
+	<tabTrigger>cidbget</tabTrigger>
+	<description>Database A.R. Get</description>
+	<scope>source.php</scope>
+</snippet>

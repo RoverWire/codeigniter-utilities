@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->version();
+]]></content>
+	<tabTrigger>cidbver</tabTrigger>
+	<description>Database Version</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->select_sum(${2:'${3:field}'}${4:, ${5:'${6:field_alias}'}});
+]]></content>
+	<tabTrigger>cidbselsum</tabTrigger>
+	<description>Database A.R. Select Sum</description>
+	<scope>source.php</scope>
+</snippet>

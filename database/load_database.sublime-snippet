@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$this->load->database();
+\$this->load->database($1);
 ]]></content>
 	<tabTrigger>ciloaddb</tabTrigger>
 	<description>Database Load</description>

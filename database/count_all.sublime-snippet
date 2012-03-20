@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->count_all(${1:'${2:table_name}'});
+]]></content>
+	<tabTrigger>cidbcount</tabTrigger>
+	<description>Database Table Counter</description>
+	<scope>source.php</scope>
+</snippet>

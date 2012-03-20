@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->or_where(${2:${3:'${4:field}'}, ${5:'${6:value}'}});
+]]></content>
+	<tabTrigger>cidborw</tabTrigger>
+	<description>Database A.R. Or Where</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->join(${2:'${3:table}'}, ${4:'${5:table1.field = table2.field}'}${6:, '${7:left}'});
+]]></content>
+	<tabTrigger>cidbjoin</tabTrigger>
+	<description>Database A.R. Join</description>
+	<scope>source.php</scope>
+</snippet>

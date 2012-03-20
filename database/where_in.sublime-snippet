@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->where_in(${2:${3:'${4:field}'}, ${5:\$arr_values}});
+]]></content>
+	<tabTrigger>cidbwin</tabTrigger>
+	<description>Database A.R. Where In</description>
+	<scope>source.php</scope>
+</snippet>

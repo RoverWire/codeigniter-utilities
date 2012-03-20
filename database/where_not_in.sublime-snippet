@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->where_not_in(${2:${3:'${4:field}'}, ${5:\$arr_values}});
+]]></content>
+	<tabTrigger>cidbwnin</tabTrigger>
+	<description>Database A.R. Where Not In</description>
+	<scope>source.php</scope>
+</snippet>

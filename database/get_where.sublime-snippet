@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->get_where(${2:'${3:table}'}, ${4:\$arr_criteria}${5:, ${6:\$limit}${7:, ${8:\$offset}}});
+]]></content>
+	<tabTrigger>cidbgetw</tabTrigger>
+	<description>Database A.R. Get Where</description>
+	<scope>source.php</scope>
+</snippet>

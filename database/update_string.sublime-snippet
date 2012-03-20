@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->update_string(${1:'${2:table}'}, ${3:\$data});
+]]></content>
+	<tabTrigger>cidbupstr</tabTrigger>
+	<description>Database Update String</description>
+	<scope>source.php</scope>
+</snippet>

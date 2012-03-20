@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->platform();
+]]></content>
+	<tabTrigger>cidbpla</tabTrigger>
+	<description>Database Platform</description>
+	<scope>source.php</scope>
+</snippet>
