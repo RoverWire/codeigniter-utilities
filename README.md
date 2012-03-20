@@ -1,4 +1,4 @@
-This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for [CodeIgniter][ci] PHP framework. Inspired on Marco Montero [CI-Snippets][ci-repo] and [CI TextMate Bunddle][ci-bunddle]
+This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for [CodeIgniter][ci] PHP framework. Inspired on Marco Monteiro [CI-Snippets][ci-repo] and [CI TextMate Bunddle][ci-bunddle]
 
 ## Installation ##
 
