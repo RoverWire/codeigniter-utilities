@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->insert_batch(${1:'${2:table}'}, ${3:\$data});
+]]></content>
+	<tabTrigger>cidbinb</tabTrigger>
+	<description>Database A.R. Insert Batch</description>
+	<scope>source.php</scope>
+</snippet>

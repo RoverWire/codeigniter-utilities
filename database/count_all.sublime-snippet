@@ -3,6 +3,6 @@
 \$this->db->count_all(${1:'${2:table_name}'});
 ]]></content>
 	<tabTrigger>cidbcount</tabTrigger>
-	<description>Database Table Counter</description>
+	<description>Database Count All</description>
 	<scope>source.php</scope>
 </snippet>

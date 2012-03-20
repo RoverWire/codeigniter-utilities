@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->db->insert(${1:'${2:table}'}, ${3:\$data});
+]]></content>
+	<tabTrigger>cidbin</tabTrigger>
+	<description>Database A.R. Insert</description>
+	<scope>source.php</scope>
+</snippet>

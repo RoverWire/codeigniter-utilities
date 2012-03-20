@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->count_all_results(${2:'${3:table_name}'});
+]]></content>
+	<tabTrigger>cidbcountar</tabTrigger>
+	<description>Database A.R. Count All Results</description>
+	<scope>source.php</scope>
+</snippet>

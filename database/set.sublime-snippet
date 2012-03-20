@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->set(${3:'${4:field}'}, ${5:'${6:value}'});
+]]></content>
+	<tabTrigger>cidbset</tabTrigger>
+	<description>Database A.R. Set</description>
+	<scope>source.php</scope>
+</snippet>
