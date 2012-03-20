@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->or_having(${2:'${3:field}'}${4:, ${5:'${6:value}'}});
+]]></content>
+	<tabTrigger>cidbohav</tabTrigger>
+	<description>Database A.R. Or Having</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->or_not_like(${2:'${3:field}'}, ${4:'${5:value}'}${6:, ${7:'${8:both}'}});
+]]></content>
+	<tabTrigger>cidbonlike</tabTrigger>
+	<description>Database A.R. Not Like</description>
+	<scope>source.php</scope>
+</snippet>

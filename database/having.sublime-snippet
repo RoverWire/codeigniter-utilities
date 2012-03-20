@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->having(${2:'${3:field}'}${4:, ${5:'${6:value}'}});
+]]></content>
+	<tabTrigger>cidbhav</tabTrigger>
+	<description>Database A.R. Having</description>
+	<scope>source.php</scope>
+</snippet>

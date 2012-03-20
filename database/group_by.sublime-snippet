@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->group_by(${2:'${3:field}'});
+]]></content>
+	<tabTrigger>cidbgroup</tabTrigger>
+	<description>Database A.R. Group By</description>
+	<scope>source.php</scope>
+</snippet>

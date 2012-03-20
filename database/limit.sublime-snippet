@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->limit(${2:\$limit}${3:, ${4:\$offset}});
+]]></content>
+	<tabTrigger>cidblim</tabTrigger>
+	<description>Database A.R. Limit</description>
+	<scope>source.php</scope>
+</snippet>

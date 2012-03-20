@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->db}->distinct(${2:'${3:field}'});
+]]></content>
+	<tabTrigger>cidbdis</tabTrigger>
+	<description>Database A.R. Having</description>
+	<scope>source.php</scope>
+</snippet>
