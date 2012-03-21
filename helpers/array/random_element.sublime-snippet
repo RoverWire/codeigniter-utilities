@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+random_element(${1:\$array});
+]]></content>
+	<tabTrigger>ciarrayrand</tabTrigger>
+	<description>Array Random Element</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+elements(${1:\$array}, ${2:\$array}${3:, NULL});
+]]></content>
+	<tabTrigger>ciarrayels</tabTrigger>
+	<description>Array Elements</description>
+</snippet>
