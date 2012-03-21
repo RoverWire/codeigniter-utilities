@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->jquery->slideUp(${1:'${2:target}'}${3:, ${4:\$optional_speed}${5:, ${6:\$optional_extra_info}}});
+]]></content>
+	<tabTrigger>cijqslideup</tabTrigger>
+	<description>jQuery Slide Up</description>
+</snippet>

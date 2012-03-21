@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->jquery->corner(${1:'${2:target}'}, ${3:'${4:corner style}'});
+]]></content>
+	<tabTrigger>cijqcorner</tabTrigger>
+	<description>jQuery Corner</description>
+</snippet>

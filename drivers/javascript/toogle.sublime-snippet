@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\$this->jquery->toogle(${1:'$2{target}'});
+\$this->jquery->toogle(${1:'${2:target}'});
 ]]></content>
 	<tabTrigger>cijqtoog</tabTrigger>
-	<description>CodeIgniter jQuery Toogle</description>
+	<description>jQuery Toogle</description>
 </snippet>

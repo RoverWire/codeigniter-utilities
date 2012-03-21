@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->jquery->fadeOut(${1:'${2:target}'}${3:, ${4:\$optional_speed}${5:, ${6:\$optional_extra_info}}});
+]]></content>
+	<tabTrigger>cijqfadeout</tabTrigger>
+	<description>jQuery Fade Out</description>
+</snippet>

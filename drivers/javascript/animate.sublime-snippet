@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->jquery->animate(${1:'${2:target}'},${3:\$arr_params}${4:, ${5:\$optional_speed}${6:, ${7:\$optional_extra_info}}});
+]]></content>
+	<tabTrigger>cijqanimate</tabTrigger>
+	<description>jQuery Animate</description>
+</snippet>

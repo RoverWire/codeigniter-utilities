@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\$this->jquery->event(${1:'$2{element_path}'}, ${3:code_to_run()});
+\$this->jquery->${1:event}(${2:'$3{element_path}'}, ${4:code_to_run()});
 ]]></content>
 	<tabTrigger>cijqevent</tabTrigger>
-	<description>CodeIgniter jQuery Event</description>
+	<description>jQuery Event</description>
 </snippet>

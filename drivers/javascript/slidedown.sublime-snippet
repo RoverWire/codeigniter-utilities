@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->jquery->slideDown(${1:'${2:target}'}${3:, ${4:\$optional_speed}${5:, ${6:\$optional_extra_info}}});
+]]></content>
+	<tabTrigger>cijqslidedown</tabTrigger>
+	<description>jQuery Slide Down</description>
+</snippet>
