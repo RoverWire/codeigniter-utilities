@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->cache->${1:${2:driver}->}delete(${3:'${4:cache_item_id}'});
+]]></content>
+	<tabTrigger>cicachedel</tabTrigger>
+	<description>Cache Delete</description>
+</snippet>

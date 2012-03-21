@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->cache->${1:${2:driver}->}cache_info();
+]]></content>
+	<tabTrigger>cicacheinfo</tabTrigger>
+	<description>Cache Information</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->cache->${1:${2:driver}->}is_supported(${3:'${4:str_driver}'});
+]]></content>
+	<tabTrigger>cicacheissup</tabTrigger>
+	<description>Cache Is Supported</description>
+</snippet>

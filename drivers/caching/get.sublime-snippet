@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->cache->${1:${2:driver}->}get(${3:'${4:str_id}'});
+]]></content>
+	<tabTrigger>cicacheget</tabTrigger>
+	<description>Cache Get</description>
+</snippet>
