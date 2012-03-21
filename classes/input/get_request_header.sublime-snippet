@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->input->get_request_header();
+]]></content>
+	<tabTrigger>ciinputgetreq</tabTrigger>
+	<description>Input Get Request Header</description>
+</snippet>

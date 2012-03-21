@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->input->post(${1:'${2:data}'}${3:, ${4:TRUE}});
+]]></content>
+	<tabTrigger>ciinputpost</tabTrigger>
+	<description>Input POST</description>
+</snippet>

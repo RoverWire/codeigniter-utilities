@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->input->user_agent();
+]]></content>
+	<tabTrigger>ciinputuser</tabTrigger>
+	<description>Input User Agent</description>
+</snippet>

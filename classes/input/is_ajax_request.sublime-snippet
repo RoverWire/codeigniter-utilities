@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->input->is_ajax_request();
+]]></content>
+	<tabTrigger>ciinputisajax</tabTrigger>
+	<description>Input Is AJAX Request</description>
+</snippet>

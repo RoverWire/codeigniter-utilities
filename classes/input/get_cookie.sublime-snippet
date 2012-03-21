@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->input->cookie(${1:'${2:cookie}'}${3:, ${4:TRUE}});
+]]></content>
+	<tabTrigger>ciinputgetco</tabTrigger>
+	<description>Input Cookie</description>
+</snippet>

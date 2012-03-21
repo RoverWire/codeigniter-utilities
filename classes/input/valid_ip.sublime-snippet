@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\$this->input->valid_ip(${1:'${2:data}'});
+]]></content>
+	<tabTrigger>ciinputvalip</tabTrigger>
+	<description>Input Valid Ip</description>
+</snippet>
