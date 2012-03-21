@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+set_cookie(${1:\$name}${2:, ${3:\$value}, ${4:\$expire}, ${5:\$domain}, ${6:\$path}, ${7:\$prefix}, ${8:\$secure}});
+]]></content>
+	<tabTrigger>cicookieset</tabTrigger>
+	<description>Cookie Set Cookie</description>
+</snippet>
