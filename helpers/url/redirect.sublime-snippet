@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+redirect(${1:'${2:route}'}${3:, '${4:refresh}'});
+]]></content>
+	<tabTrigger>ciredirect</tabTrigger>
+	<description>URL Redirect</description>
+	<scope>source.php</scope>
+</snippet>

@@ -4,4 +4,5 @@ random_element(${1:\$array});
 ]]></content>
 	<tabTrigger>ciarrayrand</tabTrigger>
 	<description>Array Random Element</description>
+	<scope>source.php</scope>
 </snippet>

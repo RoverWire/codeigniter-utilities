@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+prep_url(${1:'${2:string}'});
+]]></content>
+	<tabTrigger>ciprepurl</tabTrigger>
+	<description>Prepend URL</description>
+	<scope>source.php</scope>
+</snippet>

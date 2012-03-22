@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+anchor_popup(${1:'${2:segments}'${3:, '${4:text}'${5:, ${6:attribs}}}});
+]]></content>
+	<tabTrigger>cianchorpop</tabTrigger>
+	<description>URL Anchor Pop Up</description>
+	<scope>source.php</scope>
+</snippet>

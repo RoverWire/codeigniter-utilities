@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+auto_link(${1:'${2:string}'});
+]]></content>
+	<tabTrigger>ciautolink</tabTrigger>
+	<description>Auto Link</description>
+	<scope>source.php</scope>
+</snippet>

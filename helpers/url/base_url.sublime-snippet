@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+base_url(${1:'${2:string}'});
+]]></content>
+	<tabTrigger>cibaseurl</tabTrigger>
+	<description>Base URL</description>
+	<scope>source.php</scope>
+</snippet>

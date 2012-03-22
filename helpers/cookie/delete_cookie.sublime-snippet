@@ -4,4 +4,5 @@ set_cookie(${1:\$name}${2:, ${3:\$domain}, ${4:\$path}, ${5:\$prefix}});
 ]]></content>
 	<tabTrigger>cicookiedel</tabTrigger>
 	<description>Cookie Delete Cookie</description>
+	<scope>source.php</scope>
 </snippet>

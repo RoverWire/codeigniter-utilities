@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+current_url();
+]]></content>
+	<tabTrigger>cicururl</tabTrigger>
+	<description>Current URL</description>
+	<scope>source.php</scope>
+</snippet>

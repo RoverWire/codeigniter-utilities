@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+site_url(${1:'${2:string}'});
+]]></content>
+	<tabTrigger>cisiteurl</tabTrigger>
+	<description>Site URL</description>
+	<scope>source.php</scope>
+</snippet>

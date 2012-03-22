@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+anchor(${1:'${2:segments}'${3:, '${4:text}'${5:, ${6:attribs}}}});
+]]></content>
+	<tabTrigger>cianchor</tabTrigger>
+	<description>URL Anchor</description>
+	<scope>source.php</scope>
+</snippet>

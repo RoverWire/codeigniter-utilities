@@ -4,4 +4,5 @@ set_cookie(${1:\$name}${2:, ${3:\$value}, ${4:\$expire}, ${5:\$domain}, ${6:\$pa
 ]]></content>
 	<tabTrigger>cicookieset</tabTrigger>
 	<description>Cookie Set Cookie</description>
+	<scope>source.php</scope>
 </snippet>

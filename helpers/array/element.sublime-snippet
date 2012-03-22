@@ -4,4 +4,5 @@ element(${1:'${2:key}'}, ${3:\$array}${4:, NULL});
 ]]></content>
 	<tabTrigger>ciarrayel</tabTrigger>
 	<description>Array Element</description>
+	<scope>source.php</scope>
 </snippet>

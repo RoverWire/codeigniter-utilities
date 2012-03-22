@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+mailto(${1:'${2:me@my-site.com}'${3:, '${4:text}'${5:, ${6:\$attribs}}}});
+]]></content>
+	<tabTrigger>cimailto</tabTrigger>
+	<description>Mail To Anchor</description>
+	<scope>source.php</scope>
+</snippet>

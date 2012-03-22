@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->encrypt->encode(${1:'${2:string}'}${3:, ${4:'${5:key}'}});
+]]></content>
+	<tabTrigger>cicryptenc</tabTrigger>
+	<description>Encrypt Encode</description>
+	<scope>source.php</scope>
+</snippet>
