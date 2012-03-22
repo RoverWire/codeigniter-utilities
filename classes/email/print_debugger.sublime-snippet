@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->email}->print_debugger();
+]]></content>
+	<tabTrigger>cimailprint</tabTrigger>
+	<description>E-mail Print Debugger</description>
+</snippet>

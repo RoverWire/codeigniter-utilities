@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1:\$this->email}->initialize(${2:\$config});
+]]></content>
+	<tabTrigger>cimailinit</tabTrigger>
+	<description>E-mail Initialize</description>
+</snippet>
