@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>ciinputiscli</tabTrigger>
 	<description>Input Is CLI Request</description>
+	<scope>source.php</scope>
 </snippet>

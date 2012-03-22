@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>ciinputuser</tabTrigger>
 	<description>Input User Agent</description>
+	<scope>source.php</scope>
 </snippet>

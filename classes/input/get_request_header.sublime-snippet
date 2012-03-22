@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>ciinputgetreq</tabTrigger>
 	<description>Input Get Request Header</description>
+	<scope>source.php</scope>
 </snippet>

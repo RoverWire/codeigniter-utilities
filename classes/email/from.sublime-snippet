@@ -4,4 +4,5 @@ ${1:\$this->email}->from(${2:'${3:you@example.com}'}, ${4:'${5:Your Name}'});
 ]]></content>
 	<tabTrigger>cimailfrom</tabTrigger>
 	<description>E-mail From</description>
+	<scope>source.php</scope>
 </snippet>

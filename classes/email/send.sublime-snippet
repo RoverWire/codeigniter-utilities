@@ -4,4 +4,5 @@ ${1:\$this->email}->send();
 ]]></content>
 	<tabTrigger>cimailsend</tabTrigger>
 	<description>E-mail Send</description>
+	<scope>source.php</scope>
 </snippet>

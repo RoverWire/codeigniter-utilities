@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>ciinputvalip</tabTrigger>
 	<description>Input Valid Ip</description>
+	<scope>source.php</scope>
 </snippet>

@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>ciinputserv</tabTrigger>
 	<description>Input Server</description>
+	<scope>source.php</scope>
 </snippet>

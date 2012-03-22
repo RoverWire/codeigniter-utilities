@@ -4,4 +4,5 @@ ${1:\$this->email}->initialize(${2:\$config});
 ]]></content>
 	<tabTrigger>cimailinit</tabTrigger>
 	<description>E-mail Initialize</description>
+	<scope>source.php</scope>
 </snippet>

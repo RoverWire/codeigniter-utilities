@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>ciinputpost</tabTrigger>
 	<description>Input POST</description>
+	<scope>source.php</scope>
 </snippet>

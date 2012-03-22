@@ -4,4 +4,5 @@
 ]]></content>
 	<tabTrigger>ciinputgetco</tabTrigger>
 	<description>Input Cookie</description>
+	<scope>source.php</scope>
 </snippet>
