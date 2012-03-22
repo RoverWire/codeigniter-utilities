@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+send_email(${1:'${2:recipient}'}, ${3:'${4:subject'}}, ${5:'${6:message}'});
+]]></content>
+	<tabTrigger>cisendemail</tabTrigger>
+	<description>Send Email</description>
+	<scope>source.php</scope>
+</snippet>

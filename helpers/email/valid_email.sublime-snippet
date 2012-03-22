@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+valid_email(${1:'${2:me@example.com}'});
+]]></content>
+	<tabTrigger>civalidemail</tabTrigger>
+	<description>Valid Email</description>
+	<scope>source.php</scope>
+</snippet>
