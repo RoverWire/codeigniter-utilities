@@ -19,5 +19,4 @@ class ${1:ModelName} extends CI_Model {
 ]]></content>
 	<tabTrigger>cimodel</tabTrigger>
 	<description>CodeIgniter Model</description>
-	<scope>source.php</scope>
 </snippet>
