@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\$${1:conf}['upload_path']   = ${2:'${3:/uploads/}'};
+\$${1:conf}['allowed_types'] = ${4:'${5:gif|jpg|png}'};
+\$${1:conf}['file_name']     = '$6';
+\$${1:conf}['overwrite']     = ${7:FALSE};
+\$${1:conf}['max_size']      = ${8:0};
+\$${1:conf}['max_width']     = ${9:0};
+\$${1:conf}['max_height']    = ${10:0};
+\$${1:conf}['encrypt_name']  = ${11:FALSE};
+]]></content>
+	<tabTrigger>ciupconf</tabTrigger>
+	<description>File Upload Config</description>
+	<scope>source.php</scope>
+</snippet>
