@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+\$${1:conf} = array(
+				array(
+					'field' => '$2',
+					'label' => '$3',
+					'rules' => '$4'
+				)$0
+			);
+
+\$this->form_validation->set_rules(\$$1);
+]]></content>
+	<tabTrigger>ciformvalconf</tabTrigger>
+	<description>Validation Conf Array</description>
+	<scope>source.php</scope>
+</snippet>

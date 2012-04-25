@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->form_validation->set_rules('${1:field}', '${2:label}', '${3:required|trim}');
+]]></content>
+	<tabTrigger>ciformvalset</tabTrigger>
+	<description>Validation Set Rules</description>
+	<scope>source.php</scope>
+</snippet>

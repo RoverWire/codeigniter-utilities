@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+form_error('${1:field}'${2:, '${3:<div class="error">}', '${4:</div>}'});
+]]></content>
+	<tabTrigger>ciformerr</tabTrigger>
+	<description>Validation Form Error</description>
+	<scope>source.php</scope>
+</snippet>

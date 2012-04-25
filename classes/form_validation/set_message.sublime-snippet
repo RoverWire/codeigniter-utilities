@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->form_validation->set_message(${1:'${2:field}', }'${3:message}');
+]]></content>
+	<tabTrigger>ciformvalmes</tabTrigger>
+	<description>Validation Message</description>
+	<scope>source.php</scope>
+</snippet>

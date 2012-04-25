@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->form_validation->set_error_delimiters('${1:<div class="error">}', '${2:</div>}');
+]]></content>
+	<tabTrigger>ciformvaldel</tabTrigger>
+	<description>Validation Set Delimiters</description>
+	<scope>source.php</scope>
+</snippet>

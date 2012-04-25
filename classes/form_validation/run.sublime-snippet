@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->form_validation->run()${1:;}
+]]></content>
+	<tabTrigger>ciformvalrun</tabTrigger>
+	<description>Validation Run</description>
+	<scope>source.php</scope>
+</snippet>

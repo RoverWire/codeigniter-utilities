@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:\$${2:var} =} \$this->upload->data();
+]]></content>
+	<tabTrigger>ciupdata</tabTrigger>
+	<description>File Upload Data</description>
+	<scope>source.php</scope>
+</snippet>

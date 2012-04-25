@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+validation_errors(${1:'${2:<div class="error">}', '${3:</div>}'});
+]]></content>
+	<tabTrigger>civalerr</tabTrigger>
+	<description>Validation Errors</description>
+	<scope>source.php</scope>
+</snippet>

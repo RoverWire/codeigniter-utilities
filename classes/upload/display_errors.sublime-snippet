@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->upload->display_errors(${1:'${2:<p>}', '${3:</p>}'});
+]]></content>
+	<tabTrigger>ciupdisplay</tabTrigger>
+	<description>File Upload Errors</description>
+	<scope>source.php</scope>
+</snippet>
