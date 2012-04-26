@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+\$${1:config}['hostname'] = '$2';
+\$$1['username'] = '$3';
+\$$1['password'] = '$4';
+\$$1['port']     = ${5:21};
+\$$1['passive']  = ${6:FALSE};
+\$$1['debug']    = ${7:TRUE};
+
+\$this->ftp->connect($1);
+]]></content>
+	<tabTrigger>ciftpcon</tabTrigger>
+	<description>FTP Connect</description>
+	<scope>source.php</scope>
+</snippet>
+

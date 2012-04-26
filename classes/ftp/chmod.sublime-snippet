@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->ftp->chmod(${1:\$file}, ${2:0775});
+]]></content>
+	<tabTrigger>ciftpchmod</tabTrigger>
+	<description>FTP Change Mode</description>
+	<scope>source.php</scope>
+</snippet>

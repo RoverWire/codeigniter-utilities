@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->ftp->close();
+]]></content>
+	<tabTrigger>ciftpclose</tabTrigger>
+	<description>FTP Close</description>
+	<scope>source.php</scope>
+</snippet>

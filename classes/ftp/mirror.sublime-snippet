@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->ftp->mirror(${1:\$local}, ${2:0775});
+]]></content>
+	<tabTrigger>ciftpmir</tabTrigger>
+	<description>FTP Mirror</description>
+	<scope>source.php</scope>
+</snippet>

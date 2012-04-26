@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->ftp->download(${1:\$remote}, ${2:\$local}, ${3:'auto'});
+]]></content>
+	<tabTrigger>ciftpdown</tabTrigger>
+	<description>FTP Download</description>
+	<scope>source.php</scope>
+</snippet>

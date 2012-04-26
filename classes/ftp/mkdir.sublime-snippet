@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->ftp->mkdir(${1:\$local}, ${2:0775});
+]]></content>
+	<tabTrigger>ciftpmkdir</tabTrigger>
+	<description>FTP Make Directory</description>
+	<scope>source.php</scope>
+</snippet>
