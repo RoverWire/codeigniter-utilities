@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$this->db->update(${1:'${2:table}'}, ${3:\$data}${4:, ${5:\$condition}});
+${1:\$this->db}->update(${2:'${3:table}'}, ${4:\$data}${5:, ${6:\$condition}});
 ]]></content>
 	<tabTrigger>cidbup</tabTrigger>
 	<description>Database A.R. Update</description>
