@@ -2,9 +2,9 @@
 	<content><![CDATA[
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class ${1:ModelName} extends CI_Model {
+class ${1:ModelName} extends ${2:${3:CI}_Model} {
 
-	${2:${3:public} ${4:\$variable};}
+	${4:${5:public} ${6:\$variable};}
 
 	public function __construct()
 	{
