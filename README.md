@@ -4,7 +4,7 @@ This is a [Sublime Text][sublime] package that plans to include a complete list 
 
 You will need to make a clone of this repository into your packages folder, like so:
 
-    git clone https://github.com/RoverWire/CodeIgniter-Sublime-Snippets.git
+    git clone https://github.com/roverwire/codeigniter-utilities.git
 
 
 [sublime]: http://www.sublimetext.com/
