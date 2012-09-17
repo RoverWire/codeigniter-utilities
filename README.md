@@ -2,10 +2,17 @@ This is a [Sublime Text][sublime] package that plans to include a complete list 
 
 ## Installation ##
 
-You will need to make a clone of this repository into your packages folder, like so:
+If you have [Package Control][package_control] installed, you can get CodeIgniter Utilities easily using this following steps:
+
+	1.- Open command palette.
+	2.- Type / Search for "Package Control: Install Package"
+	3.- Type "CodeIgniter Utilities" to install it.
+
+To install it manually without Package control, you will need to make a clone of this repository into your packages folder, like so:
 
     git clone https://github.com/roverwire/codeigniter-utilities.git
 
+All the triggers begin with "ci" to avoid conflicts with other snippets.
 
 [sublime]: http://www.sublimetext.com/
 [ci]: http://www.codeigniter.com/

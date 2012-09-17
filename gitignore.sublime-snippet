@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+*/config/development
+*/logs/log-*.php
+*/logs/!index.html
+*/cache/*
+*/cache/!index.html
+]]></content>
+	<tabTrigger>cigitignore</tabTrigger>
+	<description>CodeIgniter gitIgnore</description>
+</snippet>
