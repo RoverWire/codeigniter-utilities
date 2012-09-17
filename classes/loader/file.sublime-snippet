@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->config(${1:'${2:file_name}'});
+]]></content>
+	<tabTrigger>ciloadconf</tabTrigger>
+	<description>Load Config File</description>
+	<scope>source.php</scope>
+</snippet>

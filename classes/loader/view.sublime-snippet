@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->view(${1:'${2:model_name}'});
+]]></content>
+	<tabTrigger>ciloadmod</tabTrigger>
+	<description>Load Model</description>
+	<scope>source.php</scope>
+</snippet>

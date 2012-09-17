@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->file(${1:'${2:file_name}'});
+]]></content>
+	<tabTrigger>ciloadfile</tabTrigger>
+	<description>Load File</description>
+	<scope>source.php</scope>
+</snippet>

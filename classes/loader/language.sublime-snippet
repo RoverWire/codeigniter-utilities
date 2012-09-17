@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->add_package_path(${1:'${2:path}'});
+]]></content>
+	<tabTrigger>ciloadadd</tabTrigger>
+	<description>Load Add Package</description>
+	<scope>source.php</scope>
+</snippet>

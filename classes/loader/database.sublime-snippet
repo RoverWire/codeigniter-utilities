@@ -3,6 +3,6 @@
 \$this->load->database($1);
 ]]></content>
 	<tabTrigger>ciloaddb</tabTrigger>
-	<description>Database Load</description>
+	<description>Load Database</description>
 	<scope>source.php</scope>
 </snippet>

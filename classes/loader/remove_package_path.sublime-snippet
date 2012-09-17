@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->load->remove_package_path(${1:'${2:path}'});
+]]></content>
+	<tabTrigger>ciloadrem</tabTrigger>
+	<description>Load Remove Package</description>
+	<scope>source.php</scope>
+</snippet>
