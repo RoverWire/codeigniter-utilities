@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$this->load->model(${1:'${2:model_name}'});
+\$this->load->model(${1:'${2:model_name}'}${3:, ${4:'${5:model_alias}'}});
 ]]></content>
 	<tabTrigger>ciloadmod</tabTrigger>
 	<description>Load Model</description>
