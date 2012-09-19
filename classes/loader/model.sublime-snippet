@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$this->load->view(${1:'${2:model_name}'});
+\$this->load->model(${1:'${2:model_name}'});
 ]]></content>
 	<tabTrigger>ciloadvars</tabTrigger>
 	<description>Load Vars</description>
