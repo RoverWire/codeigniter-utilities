@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-\$this->load->view(${1:'${2:model_name}'});
+\$this->load->view(${1:'${2:view_name}'}${3:, ${4:\$data}${5:, ${6:TRUE}}});
 ]]></content>
-	<tabTrigger>ciloadmod</tabTrigger>
-	<description>Load Model</description>
+	<tabTrigger>ciloadview</tabTrigger>
+	<description>Load View</description>
 	<scope>source.php</scope>
 </snippet>
