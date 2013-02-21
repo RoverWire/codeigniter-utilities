@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[form_hidden(${4:'${1:variable}', ${3:'${2:value}'}});
+]]></content>
+	<tabTrigger>ciformhidden</tabTrigger>
+	<description>Form hidden</description>
+	<scope>source.php</scope>
+</snippet>

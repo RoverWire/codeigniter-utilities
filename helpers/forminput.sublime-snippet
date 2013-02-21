@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[form_input(${4:'${1:variable}', ${3:'${2:value}'}});
+]]></content>
+	<tabTrigger>ciforminput</tabTrigger>
+	<description>Form input</description>
+	<scope>source.php</scope>
+</snippet>

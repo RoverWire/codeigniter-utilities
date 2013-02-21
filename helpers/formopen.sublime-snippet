@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[form_open('${1:url}', ${2:\$attributes},${3:\$hidden});
+]]></content>
+	<tabTrigger>ciformopen</tabTrigger>
+	<description>Form open</description>
+	<scope>source.php</scope>
+</snippet>
