@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[form_open_multipart('${1:url}', ${2:\$attributes},${3:\$hidden});
+]]></content>
+	<tabTrigger>ciformopenmulti</tabTrigger>
+	<description>Form open multipart</description>
+	<scope>source.php</scope>
+</snippet>
