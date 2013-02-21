@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[form_multiselect(${6:'${1:variable}', ${3:'${2:options}'}, ${5:'${4:selected}'}});
+]]></content>
+	<tabTrigger>ciformmultiselect</tabTrigger>
+	<description>Form multiselect</description>
+	<scope>source.php</scope>
+</snippet>

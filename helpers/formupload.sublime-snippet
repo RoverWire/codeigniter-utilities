@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[form_upload('${1:upload}');
+]]></content>
+	<tabTrigger>ciformupload</tabTrigger>
+	<description>Form upload</description>
+	<scope>source.php</scope>
+</snippet>
