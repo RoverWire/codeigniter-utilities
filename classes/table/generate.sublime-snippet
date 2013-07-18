@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->table->generate(${1:\$param});
+]]></content>
+	<tabTrigger>citablegen</tabTrigger>
+	<description>Table Generate</description>
+	<scope>source.php</scope>
+</snippet>

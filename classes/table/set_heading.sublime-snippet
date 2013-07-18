@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->table->set_heading(${1:\$string});
+]]></content>
+	<tabTrigger>citablehead</tabTrigger>
+	<description>Table Set Header</description>
+	<scope>source.php</scope>
+</snippet>

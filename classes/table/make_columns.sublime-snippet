@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->table->make_columns(${1:\$array}, ${2:\$cols});
+]]></content>
+	<tabTrigger>citablecol</tabTrigger>
+	<description>Table Make Columns</description>
+	<scope>source.php</scope>
+</snippet>

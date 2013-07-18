@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->table->add_row(${1:\$string});
+]]></content>
+	<tabTrigger>citablerow</tabTrigger>
+	<description>Table Add Row</description>
+	<scope>source.php</scope>
+</snippet>

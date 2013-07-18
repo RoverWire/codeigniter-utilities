@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->table->set_caption(${1:\$string});
+]]></content>
+	<tabTrigger>citablecap</tabTrigger>
+	<description>Table Set Caption</description>
+	<scope>source.php</scope>
+</snippet>
