@@ -10,7 +10,7 @@
  * @return	type	
  */
  
-if (! function_exists(${1:function_name}))
+if (! function_exists('${1:function_name}'))
 {
 	function $1(${2:\$param${3: = ''}})
 	{
