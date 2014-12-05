@@ -20,5 +20,4 @@ if (! function_exists('${1:function_name}'))
 ]]></content>
 	<tabTrigger>cihelper</tabTrigger>
 	<description>CodeIgniter Helper</description>
-	<scope>source.php</scope>
 </snippet>

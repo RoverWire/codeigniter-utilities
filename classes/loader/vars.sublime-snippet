@@ -3,6 +3,6 @@
 \$this->load->vars(${1:$array});
 ]]></content>
 	<tabTrigger>ciloadget</tabTrigger>
-	<description>Load Get Var</description>
+	<description>Load Get Vars</description>
 	<scope>source.php</scope>
 </snippet>

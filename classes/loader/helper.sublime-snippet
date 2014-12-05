@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-\$this->load->file(${1:'${2:file_name}'});
+\$this->load->helper(${1:'${2:file_name}'});
 ]]></content>
-	<tabTrigger>ciloadfile</tabTrigger>
-	<description>Load File</description>
+	<tabTrigger>ciloadhel</tabTrigger>
+	<description>Load Helper</description>
 	<scope>source.php</scope>
 </snippet>
