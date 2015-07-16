@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \$this->dbforge->add_column(${1:'${2:table_name}'}, ${3:$fields});
 ]]></content>
-	<tabTrigger>cidbfdropcol</tabTrigger>
+	<tabTrigger>cidbfaddcol</tabTrigger>
 	<description>Database Forge Add Column</description>
 	<scope>source.php</scope>
 </snippet>
