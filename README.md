@@ -1,3 +1,8 @@
+# CodeIgniter Utilities
+
+[![Codeigniter](https://img.shields.io/badge/Codeigniter-v3.0-orange.svg)](http://codeigniter.com/)
+[![Downloads](https://packagecontrol.herokuapp.com/downloads/CodeIgniter%20Utilities.svg?color=80d4cd)](https://packagecontrol.io/packages/CodeIgniter%20Utilities)
+
 This is a [Sublime Text][sublime] package that plans to include a complete list of snippets for all classes, libraries and helpers on [CodeIgniter][ci] PHP framework. Inspired on Marco Monteiro [CI-Snippets][ci-repo] and David Ferguson [CI TextMate Bunddle][ci-bunddle]
 
 ## Installation ##
