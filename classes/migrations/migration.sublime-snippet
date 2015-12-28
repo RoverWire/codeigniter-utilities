@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class ${1:Name} extends CI_Migration {
+
+	public function up()
+	{
+		$0
+	}
+
+	public function down()
+	{
+		// add revert code
+	}
+
+}
+]]></content>
+	<tabTrigger>cimigration</tabTrigger>
+	<description>CodeIgniter Migration</description>
+</snippet>
