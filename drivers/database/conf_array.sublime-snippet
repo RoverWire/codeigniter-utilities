@@ -1,20 +1,25 @@
 <snippet>
 	<content><![CDATA[
-\$${1:db}${2:['${3:test}']}['hostname'] = "${4:localhost}";
-\$${1:db}${2:['$3']}['username'] = "${5:root}";
-\$${1:db}${2:['$3']}['password'] = "$6";
-\$${1:db}${2:['$3']}['database'] = "${7:database_name}";
-\$${1:db}${2:['$3']}['dbdriver'] = "${8:mysql}";
-\$${1:db}${2:['$3']}['dbprefix'] = "$9";
-\$${1:db}${2:['$3']}['pconnect'] = ${10:TRUE};
-\$${1:db}${2:['$3']}['db_debug'] = ${11:FALSE};
-\$${1:db}${2:['$3']}['cache_on'] = ${12:FALSE};
-\$${1:db}${2:['$3']}['cachedir'] = "$13";
-\$${1:db}${2:['$3']}['char_set'] = "${14:utf8}";
-\$${1:db}${2:['$3']}['dbcollat'] = "${15:utf8_general_ci}";
-\$${1:db}${2:['$3']}['swap_pre'] = "$16";
-\$${1:db}${2:['$3']}['autoinit'] = ${17:TRUE};
-\$${1:db}${2:['$3']}['stricton'] = ${18:FALSE};
+\$${1:db}${2:['${3:default}']} = array(
+        'dsn'   => '$4',
+        'hostname' => '${5:localhost}',
+        'username' => '$6',
+        'password' => '$7',
+        'database' => '${8:database_name}',
+        'dbdriver' => '${9:mysqli}',
+        'dbprefix' => '$10',
+        'pconnect' => ${11:TRUE},
+        'db_debug' => ${12:FALSE},
+        'cache_on' => ${13:FALSE},
+        'cachedir' => '$14',
+        'char_set' => '${15:utf8}',
+        'dbcollat' => '${16:utf8_general_ci}',
+        'swap_pre' => '$17',
+        'encrypt'  => ${18:FALSE},
+        'compress' => ${19:FALSE},
+        'stricton' => ${20:FALSE},
+        'failover' => array($21)
+      );
 ]]></content>
 	<tabTrigger>cidbconf</tabTrigger>
 	<description>Database Configuration</description>
