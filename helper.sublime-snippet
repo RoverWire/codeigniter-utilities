@@ -1,18 +1,18 @@
 <snippet>
 	<content><![CDATA[
 /**
- * Function Name
+ * ${1:Function Name}
  *
- * Function description
+ * ${2:Function Description}
  *
  * @access	public
  * @param	type	name
  * @return	type	
  */
  
-if (! function_exists('${1:function_name}'))
+if (! function_exists('${3:function_name}'))
 {
-	function $1(${2:\$param${3: = ''}})
+	function $3(${4:\$param${5: = ''}})
 	{
 		$0
 	}
