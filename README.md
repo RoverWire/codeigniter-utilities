@@ -19,8 +19,14 @@ To install it manually without Package control, you will need to make a clone of
 
 All the triggers begin with "ci" to avoid conflicts with other snippets.
 
+Check the [wiki documentation][wiki]
+
+Are you using Atom? check the port for your [editor here][atom_package]
+
 [sublime]: http://www.sublimetext.com/
 [ci]: http://www.codeigniter.com/
 [package_control]: http://wbond.net/sublime_packages/package_control
 [ci-repo]: https://github.com/mpmont/ci-snippets
 [ci-bunddle]: http://sourceforge.net/projects/cibundle/
+[wiki]: https://github.com/RoverWire/codeigniter-utilities/wiki
+[atom_package]: https://github.com/RoverWire/codeigniter-atom
