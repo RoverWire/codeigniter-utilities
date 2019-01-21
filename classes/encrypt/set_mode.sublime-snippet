@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->encrypt->set_mode(${1:MCRYPT_MODE_CBC});
+]]></content>
+	<tabTrigger>cicryptmode</tabTrigger>
+	<description>Set Encrypt Mode</description>
+	<scope>source.php</scope>
+</snippet>

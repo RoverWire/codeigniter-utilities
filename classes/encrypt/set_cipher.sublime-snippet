@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->encrypt->set_cipher(${1:MCRYPT_RIJNDAEL_256});
+]]></content>
+	<tabTrigger>cicryptcipher</tabTrigger>
+	<description>Set Encrypt Cipher</description>
+	<scope>source.php</scope>
+</snippet>

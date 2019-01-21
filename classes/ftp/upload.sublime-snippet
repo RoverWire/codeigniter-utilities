@@ -3,6 +3,6 @@
 \$this->ftp->upload(${1:\$local}, ${2:\$remote}, ${3:'auto'}, ${4:0775});
 ]]></content>
 	<tabTrigger>ciftpren</tabTrigger>
-	<description>FTP Rename</description>
+	<description>FTP Upload</description>
 	<scope>source.php</scope>
 </snippet>

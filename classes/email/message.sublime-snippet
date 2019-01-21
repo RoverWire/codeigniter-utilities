@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:\$this->email}->message(${2:'${3:you@example.com}'});
+${1:\$this->email}->message(${2:'${3:hello}'});
 ]]></content>
 	<tabTrigger>cimailmsg</tabTrigger>
 	<description>E-mail Message</description>

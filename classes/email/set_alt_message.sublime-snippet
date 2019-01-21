@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:\$this->email}->set_alt_message(${2:'${3:you@example.com}'});
+${1:\$this->email}->set_alt_message(${2:'${3:hello}'});
 ]]></content>
 	<tabTrigger>cimailaltmsg</tabTrigger>
 	<description>E-mail Set Alternative Message</description>
