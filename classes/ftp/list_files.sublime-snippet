@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \$${1:files} = \$this->ftp->list_files(${2:\$path});
 ]]></content>
-	<tabTrigger>ciftplist</tabTrigger>
+	<tabTrigger>ciftpls</tabTrigger>
 	<description>FTP List Files</description>
 	<scope>source.php</scope>
 </snippet>

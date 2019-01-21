@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-\$this->ftp->delete_dir(${1:\$file});
+\$this->ftp->delete_file(${1:\$file});
 ]]></content>
-	<tabTrigger>ciftpdeldir</tabTrigger>
-	<description>FTP Delete Directory</description>
+	<tabTrigger>ciftpdelfile</tabTrigger>
+	<description>FTP Delete File</description>
 	<scope>source.php</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-\$this->ftp->move(${1:\$from}, ${2:\$to});
+\$this->ftp->rename(${1:\$from}, ${2:\$to});
 ]]></content>
-	<tabTrigger>ciftpmov</tabTrigger>
+	<tabTrigger>ciftprn</tabTrigger>
 	<description>FTP Rename</description>
 	<scope>source.php</scope>
 </snippet>

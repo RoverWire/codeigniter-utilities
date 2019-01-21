@@ -7,7 +7,7 @@
 \$$1['passive']  = ${6:FALSE};
 \$$1['debug']    = ${7:TRUE};
 
-\$this->ftp->connect($1);
+\$this->ftp->connect(\$$1);
 ]]></content>
 	<tabTrigger>ciftpcon</tabTrigger>
 	<description>FTP Connect</description>
