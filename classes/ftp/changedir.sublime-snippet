@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$this->ftp->changedir(${1:\$path});
+]]></content>
+	<tabTrigger>ciftpcd</tabTrigger>
+	<description>FTP Change Directory</description>
+	<scope>source.php</scope>
+</snippet>
