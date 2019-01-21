@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \$this->input->cookie(${1:'${2:cookie}'}${3:, ${4:TRUE}});
 ]]></content>
-	<tabTrigger>ciinputgetco</tabTrigger>
+	<tabTrigger>ciinputgck</tabTrigger>
 	<description>Input Cookie</description>
 	<scope>source.php</scope>
 </snippet>

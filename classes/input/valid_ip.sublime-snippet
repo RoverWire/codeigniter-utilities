@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \$this->input->valid_ip(${1:'${2:data}'});
 ]]></content>
-	<tabTrigger>ciinputvalip</tabTrigger>
+	<tabTrigger>ciinputvip</tabTrigger>
 	<description>Input Valid Ip</description>
 	<scope>source.php</scope>
 </snippet>

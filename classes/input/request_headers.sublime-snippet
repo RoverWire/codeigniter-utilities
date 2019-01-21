@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \$this->input->request_headers();
 ]]></content>
-	<tabTrigger>ciinputreq</tabTrigger>
+	<tabTrigger>ciinputrh</tabTrigger>
 	<description>Input Request Headers</description>
 	<scope>source.php</scope>
 </snippet>

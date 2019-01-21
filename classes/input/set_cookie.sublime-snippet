@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \$this->input->set_cookie(${1:\$name}${2:, ${3:\$value}, ${4:\$expire}, ${5:\$domain}, ${6:\$path}, ${7:\$prefix}, ${8:\$secure}});
 ]]></content>
-	<tabTrigger>ciinputsetco</tabTrigger>
+	<tabTrigger>ciinputsck</tabTrigger>
 	<description>Input Set Cookie</description>
 	<scope>source.php</scope>
 </snippet>

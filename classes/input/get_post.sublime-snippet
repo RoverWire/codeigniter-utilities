@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \$this->input->get_post(${1:'${2:data}'}${3:, ${4:TRUE}});
 ]]></content>
-	<tabTrigger>ciinputgetp</tabTrigger>
+	<tabTrigger>ciinputgp</tabTrigger>
 	<description>Input Get / Post</description>
 	<scope>source.php</scope>
 </snippet>

@@ -2,7 +2,7 @@
 	<content><![CDATA[
 \$this->input->user_agent();
 ]]></content>
-	<tabTrigger>ciinputuser</tabTrigger>
+	<tabTrigger>ciinputua</tabTrigger>
 	<description>Input User Agent</description>
 	<scope>source.php</scope>
 </snippet>
